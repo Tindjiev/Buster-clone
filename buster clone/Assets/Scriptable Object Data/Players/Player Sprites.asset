@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb7c82c1639fac04fb7e2530d590d862, type: 3}
+  m_Name: Player Sprites
+  m_EditorClassIdentifier: 
+  StillSprite: {fileID: 21300000, guid: 71148db496dedea4e812549789a21a7e, type: 3}
+  RightSprite: {fileID: 21300000, guid: 8871939355074134887808b69ff12c9d, type: 3}
+  ThrownSprite: {fileID: 21300000, guid: 03180271700d2e0458a17c45147ab31e, type: 3}
+  DeadSprite: {fileID: 21300000, guid: c6915e3e1688e26458612fc6b31efeb9, type: 3}
+  UpSprite: {fileID: 21300000, guid: efbf7f9f08277ee4eab75b73e0f9c650, type: 3}
